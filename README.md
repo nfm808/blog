@@ -1,4 +1,4 @@
-# Full Stack Blog
+# Full Stack Blog: Postgresql, Express.js, Node.js, React.js
 
 This is a full stack blog application.
 
