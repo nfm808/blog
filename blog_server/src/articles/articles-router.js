@@ -57,7 +57,7 @@ articlesRouter
           style: article.style,
           title: xss(article.title),
           content: xss(article.content),
-          date_published: article.date_published,
+          date_published: article.date_published, 
         })
       })
       .catch(next)
